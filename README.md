@@ -31,6 +31,21 @@ This analysis answers several key questions about the restaurant industry based 
 
 ---
 
+### Key Visualizations
+
+Here are a few sample visualizations from the analysis:
+
+**1. Initial Data Overview (`pd.info()`):** A summary of the dataset showing column data types and non-null counts.
+![Dataset Info Summary](blob:https://github.com/269105bb-3eff-419f-9439-c7640a75804a)
+
+**2. Top Countries by Restaurant Count:** A pie chart showing the overwhelming market share of restaurants based in India.
+![Top Countries Pie Chart](blob:https://github.com/9e63feaf-37ab-49fe-b34e-08191f246976)
+
+**3. Rating Distribution:** A bar plot illustrating the frequency of different aggregate ratings.
+![Ratings Distribution Bar Plot](blob:https://github.com/38a10e56-d9ff-48c1-b186-301ba8b32bc4)
+
+---
+
 ### Technologies Used
 
 * **Python:** Core language for analysis.
